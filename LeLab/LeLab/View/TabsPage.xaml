@@ -21,4 +21,4 @@
     <view:PageVoiture />
     <view:PageAvion  Icon ="lab_icon_avion.png" />
     <view:CountPage Icon ="lab_icon_compteur.png" />
-</TabbedPage>
+</TabbedPage> 
